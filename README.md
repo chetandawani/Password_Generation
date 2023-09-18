@@ -5,10 +5,10 @@ Created on Sun Sep 17 13:05:55 2023
 @author: CHETAN  DAWANI
 """
 # Libraries use in this Program of  Password_Generation:
-import tkinter as tk
-from tkinter import messagebox
-import random
-import string
+[**import tkinter as tk**,
+**from tkinter import messagebox**,
+**import random**  ,
+**import string** ]
 
 **Description of the Need of this Code in this Today's Era**
 # In the digital age, Strong passwords are crucial with the passage of time for Online Security. To Simplify the process of generating Secure Passwords, I Worked on a Python project to create a Graphical User Interface (GUI) Password Generator.
